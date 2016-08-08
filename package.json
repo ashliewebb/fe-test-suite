@@ -1,6 +1,6 @@
 {
   "name": "fe-test-suite",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A collection of tools used to monitor various metrics of a website.",
   "main": "index.js",
   "scripts": {
