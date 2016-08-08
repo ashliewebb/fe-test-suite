@@ -1,0 +1,19 @@
+{
+  "name": "fe-test-suite",
+  "version": "0.0.0",
+  "description": "A collection of tools used to monitor various metrics of a website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashliewebb/fe-test-suite.git"
+  },
+  "author": "Ashlie Webb <greetings@ashliewebb.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashliewebb/fe-test-suite/issues"
+  },
+  "homepage": "https://github.com/ashliewebb/fe-test-suite#readme"
+}
